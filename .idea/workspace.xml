@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc81f17c-355c-441b-b215-2bfae197b005" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jehVide91E6UKBxnmCzzZI8LER" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pink" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\amp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc81f17c-355c-441b-b215-2bfae197b005" name="Default Changelist" comment="" />
+      <created>1604170490464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604170490464</updated>
+      <workItem from="1604170491621" duration="1314000" />
+      <workItem from="1604171868589" duration="216000" />
+      <workItem from="1604172334466" duration="1312000" />
+      <workItem from="1604233679458" duration="1733000" />
+      <workItem from="1604249162469" duration="6902000" />
+      <workItem from="1604427332922" duration="10754000" />
+      <workItem from="1604493251337" duration="9225000" />
+      <workItem from="1604513084933" duration="11284000" />
+      <workItem from="1604528716594" duration="2068000" />
+      <workItem from="1604575087951" duration="8055000" />
+      <workItem from="1604594602426" duration="15056000" />
+      <workItem from="1604694856142" duration="11739000" />
+      <workItem from="1604741317869" duration="25560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604267720591">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="405" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1604267720591" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1604766977500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604766977500" />
+  </component>
+</project>
